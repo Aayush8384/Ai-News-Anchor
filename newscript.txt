@@ -1,0 +1,1 @@
+python interface.py --checkpoint_path checkpoints/wav2lip.pth --face avatar.mp4 --audio temp_voice.wav

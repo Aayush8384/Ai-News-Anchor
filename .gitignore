@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+myenv311/
+
+# Model files
+*.pth
+*.h5
+*.pkl
+
+# Media files (large)
+*.mp4
+*.avi
+*.mkv
+*.webm
+*.gif
+*.mp3
+*.wav
+*.jpg
+
+# Outputs
+output/
+results/
+*.log
+
+# Project-specific
+filelists/*.txt
+evaluation/test_filelists/lr*.txt
+
+# System / IDE
+.DS_Store
+.vscode/
+.idea/
